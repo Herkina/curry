@@ -33,4 +33,14 @@ public class CurryLoader extends JavaPlugin {
     public CacheModule getCacheModule() {
         return cacheModule;
     }
+
+    /**
+     * Gets the {@link CurryLoader}
+     *
+     * @return {@link CurryLoader}
+     */
+    public static CurryLoader getCurryLoader() {
+        return JavaPlugin.getPlugin(CurryLoader.class);
+    }
+
 }
