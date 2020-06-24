@@ -1,6 +1,7 @@
 cache:
 
   # other possible options:
-  # memcached, redis
+  #   - memcached
+  #   - redis
   type: memory
 
