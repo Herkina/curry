@@ -6,7 +6,8 @@ public class CurryLoader extends JavaPlugin {
 
     @Override
     public void onEnable() {
-
+        // load configuration
+        this.saveDefaultConfig();
     }
 
 }

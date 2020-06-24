@@ -1,0 +1,6 @@
+cache:
+
+  # other possible options:
+  # memcached, redis
+  type: memory
+
