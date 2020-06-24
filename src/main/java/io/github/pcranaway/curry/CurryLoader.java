@@ -25,6 +25,11 @@ public class CurryLoader extends JavaPlugin {
         ));
     }
 
+    /**
+     * Gets the {@link CacheModule}
+     *
+     * @return the {@link CacheModule}
+     */
     public CacheModule getCacheModule() {
         return cacheModule;
     }
