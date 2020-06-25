@@ -2,4 +2,4 @@ name: 'Curry'
 version: ${project.version}
 main: 'io.github.pcranaway.curry.CurryLoader'
 authors: ['pcranaway']
-description: 'UUID Caching at it's finest'
+description: "UUID Caching at it's finest"
