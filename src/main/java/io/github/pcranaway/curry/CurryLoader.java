@@ -132,7 +132,7 @@ public class CurryLoader extends JavaPlugin {
      *
      * @param name the name of the player
      */
-    public UUID fetchUUID(String name) {
+    private UUID fetchUUID(String name) {
 
         try {
 
