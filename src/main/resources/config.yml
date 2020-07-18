@@ -1,7 +1,8 @@
 cache:
 
-  # other possible options:
+  # options
   #   - memcached
   #   - redis
+  #   - memory
   type: memory
 
